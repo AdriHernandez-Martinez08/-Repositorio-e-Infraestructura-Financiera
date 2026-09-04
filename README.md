@@ -10,8 +10,19 @@
 Desarrollar un repositorio digital seguro e infraestructura financiera simplificada que permita a los talleres de ollas de barro y canastas tejidas gestionar su inventario de piezas, registrar transacciones comerciales y facilitar flujos de pago directos y transparentes, adaptados a las condiciones reales de conectividad de la región Mixteca.
 
 ---
+### 2. Arquitectura de la solución
 
-### 2. Product Backlog
+La plataforma estará compuesta por los siguientes elementos:
+
+- **Frontend:** Interfaz web ligera y adaptable a dispositivos móviles.
+- **Backend:** Servicios para gestionar usuarios, productos, inventario y transacciones.
+- **Base de datos:** Almacenamiento de artesanos, piezas, pedidos y movimientos financieros.
+- **Repositorio digital:** Almacenamiento de fichas y fotografías de las piezas artesanales.
+- **Código QR:** Identificación y consulta pública de cada pieza.
+- **Infraestructura financiera:** Registro y seguimiento de pagos y anticipos.
+- **Seguridad:** Autenticación, control de acceso y protección de información sensible.
+
+### 3. Product Backlog
 
 | Prioridad | ID | Historia de Usuario | Resultado esperado | Dependencia | Estimación |
 | :---: | :--- | :--- | :--- | :---: | :---: |
@@ -26,7 +37,7 @@ Desarrollar un repositorio digital seguro e infraestructura financiera simplific
 
 ---
 
-### 3. Criterios de aceptación
+### 4. Criterios de aceptación
 
 * **HU-01 – Autenticación en la infraestructura**
   * Validación mediante número telefónico móvil.
@@ -55,7 +66,7 @@ Desarrollar un repositorio digital seguro e infraestructura financiera simplific
 
 ---
 
-### 4. Tablero eduScrum
+### 5. Tablero eduScrum
 
 #### Estado actual del trabajo
 | BACKLOG | POR HACER | EN PROCESO | EN REVISIÓN / PRUEBAS | TERMINADO |
@@ -67,7 +78,7 @@ Desarrollar un repositorio digital seguro e infraestructura financiera simplific
 
 ---
 
-### 5. Flujo del tablero
+### 6. Flujo del tablero
 
 ```text
 ┌──────────────┐
